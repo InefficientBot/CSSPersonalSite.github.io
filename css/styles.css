@@ -1,0 +1,119 @@
+.top_container {
+  background-color: #3F72AF;
+  color: #F9F7F7;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  background-color: #F9F7F7;
+  color: #112D4E;
+}
+
+h1 {
+  font-size: 4.375em;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 1.875em;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #112D4E;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+p {
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.khalid_avatar {
+  width: 200px;
+}
+
+.skill_row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bot_cloud {
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+
+.coding_png {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chess_png {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.my_Button {
+	background-color:#3F72AF;
+	border-radius:28px;
+	border:1px solid #3F72AF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3F72AF;
+}
+.my_Button:hover {
+	background-color:#3F72AF;
+}
+.my_Button:active {
+	position:relative;
+	top:1px;
+}
+
+.bot_container {
+  padding: 30px;
+  margin-top: 30px;
+  color: #F9F7F7;
+  background-color: #3F72AF;
+}
+
+.footer_link {
+  color: #112D4E;
+  word-spacing: 30px;
+  text-decoration: none;
+}
+
+.footer_link:hover {
+  color: #F9F7F7;
+}
